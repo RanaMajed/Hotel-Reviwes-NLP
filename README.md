@@ -20,7 +20,7 @@ What are the most words negative repeated?
 
 We will be using the " To analyze user reviews of hotels " Dataset from Kaggle: the dataset has 2000 numbers of rows and 4 feature 
 
-**Columns: ** 
+**Columns:** 
 
 **Reviews:** Reviews text. 
 
