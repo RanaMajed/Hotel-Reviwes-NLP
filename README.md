@@ -22,11 +22,11 @@ We will be using the " To analyze user reviews of hotels " Dataset from Kaggle: 
 
 **Columns: ** 
 
-**Reviews:**Reviews text. 
+**Reviews:** Reviews text. 
 
-**Rating:**User sentiment, Negative, Positive 
+**Rating:** User sentiment, Negative, Positive 
 
-**Hotel: ** Hotel Name  
+**Hotel:** Hotel Name  
 
 **Users Number:** user ID 
 
@@ -34,4 +34,4 @@ We will be using the " To analyze user reviews of hotels " Dataset from Kaggle: 
 
 **Technologies:** python, Jupyter notebook 
 
-**Libraries: ** pandas, numpy, matplotlib, seaborn, LogisticRegression , WordCloud, Stopword, textblob, tqdm, arabic_reshaper, nltk, farasa, sklearn, pyLDAvis 
+**Libraries:** pandas, numpy, matplotlib, seaborn, LogisticRegression , WordCloud, Stopword, textblob, tqdm, arabic_reshaper, nltk, farasa, sklearn, pyLDAvis 
