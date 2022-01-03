@@ -1,5 +1,10 @@
 # Hotel Reviwes NLP
 
+
+
+
+<center><img align="center" src="IMDb.jpg"></center>
+
 # Introduction: 
 
 As part of the Vision 2030 initiative, where the Kingdom aims to attract 100 million visitors annually, which requires a significant increase in the stock of hotel rooms, as the national transformation programs within the framework of developing the tourism sector and national heritage are keen to make the Kingdom a regional and global tourist destination, and the goal of this project is Building unsupervised machine learning models for Arabic Natural Language Processing (NLP) that determine whether a text revision is a positive revision or a negative revision. This project will help hotels to automatically identify and group text review category to improve their services. 
