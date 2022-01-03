@@ -22,9 +22,9 @@ We will be using the " To analyze user reviews of hotels " Dataset from Kaggle: 
 
 **Columns: ** 
 
-**Reviews:** Reviews text. 
+**Reviews:**Reviews text. 
 
-**Rating:** User sentiment, Negative, Positive 
+**Rating:**User sentiment, Negative, Positive 
 
 **Hotel: ** Hotel Name  
 
